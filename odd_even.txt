@@ -1,0 +1,5 @@
+Enter number 
+if 
+number divisible by 2 even
+else
+number is odd
