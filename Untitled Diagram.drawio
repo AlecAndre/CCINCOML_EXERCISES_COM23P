@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T05:47:24.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IopnhsWzbZ_XLvjjEwhK" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:55:53.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VLSy9hWLfNDqJKqcP6re" version="23.0.0" type="github">
   <diagram name="Page-1" id="6LjyqjTItmoqM_vDZdLA">
     <mxGraphModel dx="832" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,16 +19,6 @@
         <mxCell id="lK2Olcy0GDEomvoa2N_G-3" value="Waiting for taxi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="170" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="460" as="sourcePoint" />
-            <mxPoint x="290" y="550" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="425" y="500" />
-              <mxPoint x="290" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lK2Olcy0GDEomvoa2N_G-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="424" y="230" as="sourcePoint" />
@@ -39,92 +29,103 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lK2Olcy0GDEomvoa2N_G-9" value="Go to the earliest ferry ride to Bohol or explore Cebu." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="348" y="298" width="154" height="160" as="geometry" />
+          <mxGeometry x="348" y="300" width="154" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Eo_cgK99f8jWklhc6s8-23" target="4Eo_cgK99f8jWklhc6s8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="700" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-29" value="Will Be on time to catch the early ferry ride to Davao and can explore the chocolate hills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="550" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-30" value="Can take time to explore the oldest city in the Philippines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="550" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="462" as="sourcePoint" />
+            <mxPoint x="290" y="552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="502" />
+              <mxPoint x="290" y="502" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Eo_cgK99f8jWklhc6s8-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="460" as="sourcePoint" />
-            <mxPoint x="560" y="550" as="targetPoint" />
+            <mxPoint x="425" y="462" as="sourcePoint" />
+            <mxPoint x="560" y="552" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="500" />
-              <mxPoint x="560" y="500" />
+              <mxPoint x="425" y="502" />
+              <mxPoint x="560" y="502" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4Eo_cgK99f8jWklhc6s8-2" value="To Bohol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="458" width="70" height="30" as="geometry" />
+          <mxGeometry x="275" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-3" value="To Cebu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="458" width="70" height="30" as="geometry" />
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-3" value="Stay in Cebu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="460" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-5" value="See the Chocolate Hills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-7" value="Try the Bagnet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287.5" y="610" as="sourcePoint" />
-            <mxPoint x="287.5" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="561.5" y="610" as="sourcePoint" />
-            <mxPoint x="561.5" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287.5" y="730" as="sourcePoint" />
-            <mxPoint x="288.5" y="810" as="targetPoint" />
+            <mxPoint x="755" y="810" as="sourcePoint" />
+            <mxPoint x="620" y="900" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="288.5" y="780" />
+              <mxPoint x="755" y="850" />
+              <mxPoint x="620" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="561.5" y="730" as="sourcePoint" />
-            <mxPoint x="560" y="810" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-16" value="On time to the next&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;flight to Davao." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-17" value="Will be late to visit the places planned to visit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-18" value="Can try the boneless Crispy Pata and explore the Philippine Eagle Center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-19" value="Won&#39;t have enough time to explore the whole city" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="282.5" y="870" as="sourcePoint" />
-            <mxPoint x="400" y="960" as="targetPoint" />
+            <mxPoint x="775" y="830" as="sourcePoint" />
+            <mxPoint x="640" y="920" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="283" y="900" />
-              <mxPoint x="400" y="900" />
+              <mxPoint x="775" y="870" />
+              <mxPoint x="640" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="565" y="870" as="sourcePoint" />
-            <mxPoint x="447.5" y="960" as="targetPoint" />
+            <mxPoint x="795" y="800" as="sourcePoint" />
+            <mxPoint x="660" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="564.5" y="900" />
-              <mxPoint x="447.5" y="900" />
+              <mxPoint x="795" y="840" />
+              <mxPoint x="660" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Eo_cgK99f8jWklhc6s8-22" value="Flight to Manila&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="755" as="sourcePoint" />
+            <mxPoint x="680" y="845" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="815" y="795" />
+              <mxPoint x="680" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="630" as="sourcePoint" />
+            <mxPoint x="557" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="286.5" y="620" as="sourcePoint" />
+            <mxPoint x="286.5" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286.5" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
