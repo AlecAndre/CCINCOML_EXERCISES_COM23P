@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T05:23:26.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="X16ccBjBhX0-v16FW027" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T05:27:05.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TM6IM081aPx7r0iKTjaV" version="23.0.0" type="github">
   <diagram name="Page-1" id="6LjyqjTItmoqM_vDZdLA">
     <mxGraphModel dx="832" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-1" value="Landed in Cebu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-1" value="Landed in Cebu" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="90" as="sourcePoint" />
             <mxPoint x="425" y="170" as="targetPoint" />
@@ -16,10 +16,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-3" value="Waiting for taxi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-3" value="Waiting for taxi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="356" y="170" width="138" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="460" as="sourcePoint" />
             <mxPoint x="290" y="550" as="targetPoint" />
@@ -29,7 +29,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="424" y="230" as="sourcePoint" />
             <mxPoint x="424" y="300" as="targetPoint" />
@@ -38,8 +38,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lK2Olcy0GDEomvoa2N_G-9" value="Go to the earliest ride to Bohol or explore Cebu." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="300" width="154" height="160" as="geometry" />
+        <mxCell id="lK2Olcy0GDEomvoa2N_G-9" value="Go to the earliest ride to Bohol or explore Cebu." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="348" y="298" width="154" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="460" as="sourcePoint" />
+            <mxPoint x="560" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="500" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-2" value="To Bohol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="458" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-3" value="To Cebu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="458" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-5" value="See the Chocolate Hills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Eo_cgK99f8jWklhc6s8-7" value="Try the Bagnet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
