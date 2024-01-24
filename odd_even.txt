@@ -1,5 +1,6 @@
+Num is equal to reader
 Enter number 
 if 
-number divisible by 2 even
+number divided by 2 and the product is 0 even
 else
 number is odd
